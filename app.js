@@ -10,7 +10,7 @@ validation(age);
 
 var x =prompt('how many students do you know studying in HU');
 for (var i = x ;i>0 ;i--){document.write('<img src ="https://tse3.mm.bing.net/th?id=OIP.3ANjjJhiIxab9_QOOcEk6wHaFE&pid=Api&P=0&w=247&h=170">');}
-function validation (age) {while (age === ''|| age === null){age ='pleeeeeease your age  for God sake');}
+function validation (age) {while (age === ''|| age === null){age ='pleeeeeease your age  for God sake')}
 
 
 
